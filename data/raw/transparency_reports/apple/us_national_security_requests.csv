@@ -1,0 +1,35 @@
+TR Period,TR Start Date,TR End Date,Country/Region,National Security Request Type,Requests Received,Users/Accounts
+2013 H1,1/1/13,6/30/13,United States of America,National Security,0 - 249,0 - 249
+2013 H2,7/1/13,12/31/13,United States of America,National Security,0 - 249,0 - 249
+2014 H1,1/1/14,6/30/14,United States of America,National Security,0 - 249,0 - 249
+2014 H2,7/1/14,12/31/14,United States of America,National Security,250 - 499,0 - 249
+2015 H1,1/1/15,6/30/15,United States of America,National Security,751 - 999,250 - 499
+2015 H2,7/1/15,12/31/15,United States of America,National Security,"1,250 - 1,499","1,000 - 1,249"
+2016 H1,1/1/16,6/30/16,United States of America,National Security,"2,751 - 2,999","2,001 - 2,249"
+2016 H2,7/1/16,12/31/16,United States of America,National Security,"5,750 - 5,999","4,750 - 4,999"
+2017 H1,1/1/17,6/30/17,United States of America,National Security,"13,254 - 13,499","9,005 - 9,249"
+2017 H2,7/1/17,12/31/17,United States of America,National Security,"16,005 - 16,249","8,009 - 8,249"
+2018 H1,1/1/18,6/30/18,United States of America,FISA Content,0 - 499,"13,500 - 13,999"
+2018 H1,1/1/18,6/30/18,United States of America,FISA Non-Content,0 - 499,"7,500 - 7,999"
+2018 H1,1/1/18,6/30/18,United States of America,NSLs,3 - 499,"1,005 - 1,499"
+2018 H2,7/1/18,12/31/18,United States of America,FISA Content,0 - 499,"14,000 - 14,499"
+2018 H2,7/1/18,12/31/18,United States of America,FISA Non-Content,0 - 499,"9,000 - 9,499"
+2018 H2,7/1/18,12/31/18,United States of America,NSLs,6 - 499,"1,508 - 1,999"
+2019 H1,1/1/19,6/30/19,United States of America,FISA Content,0 - 499,"18,000 - 18,499"
+2019 H1,1/1/19,6/30/19,United States of America,FISA Non-Content,0 - 499,"11,000 - 11,499"
+2019 H1,1/1/19,6/30/19,United States of America,NSLs,8 - 499,"2,512 - 2,999"
+2019 H2,7/1/19,12/31/19,United States of America,FISA Content,0 - 499,"17,500 - 17,999"
+2019 H2,7/1/19,12/31/19,United States of America,FISA Non-Content,0 - 499,"15,500 - 15,999"
+2019 H2,7/1/19,12/31/19,United States of America,NSLs,5 - 499,"1,510 - 1,999"
+2020 H1,1/1/20,6/30/20,United States of America,FISA Content,0 - 499,"20,500 - 20,999"
+2020 H1,1/1/20,6/30/20,United States of America,FISA Non-Content,0 - 499,"11,000 - 11,499"
+2020 H1,1/1/20,6/30/20,United States of America,NSLs,2 - 499,2 - 499
+2020 H2,7/1/20,12/31/20,United States of America,FISA Content,0 - 499,"24,000 - 24,499"
+2020 H2,7/1/20,12/31/20,United States of America,FISA Non-Content,0 - 499,"19,500 - 19,999"
+2020 H2,7/1/20,12/31/20,United States of America,NSLs,1 - 499,501 - 999
+2021 H1,1/1/21,6/30/21,United States of America,FISA Content,0 - 499,"32,500 - 32,999"
+2021 H1,1/1/21,6/30/21,United States of America,FISA Non-Content,0 - 499,"26,000 - 26,499"
+2021 H1,1/1/21,6/30/21,United States of America,NSLs,2 - 499,"1,002 - 1,499"
+2021 H2,7/1/21,12/31/21,United States of America,FISA Content,0 - 499,"32,000 - 32,499"
+2021 H2,7/1/21,12/31/21,United States of America,FISA Non-Content,0 - 499,"25,000 - 25,499"
+2021 H2,7/1/21,12/31/21,United States of America,NSLs,0 - 499,500 - 999

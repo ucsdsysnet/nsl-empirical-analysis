@@ -1,0 +1,270 @@
+Period Ending,Country/Region,CLDR Territory Code,Product,Legal Process,Enterprise Cloud customer requests,Enterprise Cloud customers,Percentage disclosed
+2019-12-31,Argentina,AR,Google Workspace,Other Legal Requests,1,1,0
+2019-12-31,Argentina,AR,Google Workspace,Preservation Requests,1,1,
+2019-12-31,Austria,AT,Google Workspace,Other Legal Requests,5,9,0
+2019-12-31,Brazil,BR,GCP,Preservation Requests,1,1,
+2019-12-31,Brazil,BR,Google Workspace,Other Legal Requests,13,16,23
+2019-12-31,Brazil,BR,Google Workspace,Preservation Requests,1,1,
+2019-12-31,Canada,CA,GCP,Preservation Requests,1,1,
+2019-12-31,Canada,CA,Google Workspace,Emergency Disclosure Requests,1,1,100
+2019-12-31,Chile,CL,Google Workspace,Other Legal Requests,2,2,50
+2019-12-31,Denmark,DK,Google Workspace,Other Legal Requests,1,1,0
+2019-12-31,France,FR,Google Workspace,Other Legal Requests,3,3,0
+2019-12-31,Germany,DE,Google Workspace,Other Legal Requests,19,19,5
+2019-12-31,Germany,DE,Google Workspace,Preservation Requests,3,3,
+2019-12-31,India,IN,Google Workspace,Other Legal Requests,18,18,17
+2019-12-31,Italy,IT,Google Workspace,Other Legal Requests,1,1,0
+2019-12-31,Malta,MT,Google Workspace,Other Legal Requests,1,1,0
+2019-12-31,Netherlands,NL,Google Workspace,Other Legal Requests,1,1,0
+2019-12-31,Singapore,SG,Google Workspace,Other Legal Requests,1,43,100
+2019-12-31,Switzerland,CH,Google Workspace,Other Legal Requests,1,1,0
+2019-12-31,Taiwan,TW,Google Workspace,Emergency Disclosure Requests,1,1,100
+2019-12-31,United Kingdom,GB,Google Workspace,Other Legal Requests,5,5,20
+2019-12-31,United States,US,GCP,Emergency Disclosure Requests,1,1,0
+2019-12-31,United States,US,GCP,Other Court Orders,1,1,0
+2019-12-31,United States,US,GCP,Subpoenas,6,7,0
+2019-12-31,United States,US,Google Workspace,Emergency Disclosure Requests,13,13,77
+2019-12-31,United States,US,Google Workspace,Other Court Orders,49,144,76
+2019-12-31,United States,US,Google Workspace,Pen Register Orders,4,4,75
+2019-12-31,United States,US,Google Workspace,Preservation Requests,130,143,
+2019-12-31,United States,US,Google Workspace,Search Warrants,85,88,61
+2019-12-31,United States,US,Google Workspace,Subpoenas,49,53,78
+2020-06-30,Argentina,AR,Google Workspace,Preservation Requests,1,1,
+2020-06-30,Australia,AU,Google Workspace,Other Legal Requests,2,2,0
+2020-06-30,Brazil,BR,GCP,Other Legal Requests,1,1,0
+2020-06-30,Brazil,BR,Google Workspace,Other Legal Requests,80,90,4
+2020-06-30,Brazil,BR,Google Workspace,Preservation Requests,1,1,
+2020-06-30,Canada,CA,Google Workspace,Emergency Disclosure Requests,1,1,100
+2020-06-30,Canada,CA,Google Workspace,Other Legal Requests,2,2,50
+2020-06-30,Canada,CA,Google Workspace,Preservation Requests,2,2,
+2020-06-30,Czechia,CZ,Google Workspace,Other Legal Requests,1,1,0
+2020-06-30,France,FR,Google Workspace,Other Legal Requests,6,6,0
+2020-06-30,Germany,DE,GCP,Other Legal Requests,1,1,0
+2020-06-30,Germany,DE,Google Workspace,Other Legal Requests,27,27,7
+2020-06-30,Greece,GR,Google Workspace,Other Legal Requests,1,1,100
+2020-06-30,India,IN,Google Workspace,Other Legal Requests,18,19,0
+2020-06-30,Ireland,IE,Google Workspace,Preservation Requests,1,1,
+2020-06-30,Israel,IL,Google Workspace,Other Legal Requests,2,2,0
+2020-06-30,Italy,IT,Google Workspace,Other Legal Requests,5,5,0
+2020-06-30,Malta,MT,Google Workspace,Other Legal Requests,1,1,0
+2020-06-30,New Zealand,NZ,Google Workspace,Emergency Disclosure Requests,1,1,100
+2020-06-30,Poland,PL,GCP,Other Legal Requests,2,2,0
+2020-06-30,Poland,PL,Google Workspace,Other Legal Requests,1,1,0
+2020-06-30,Poland,PL,Google Workspace,Preservation Requests,1,1,
+2020-06-30,Portugal,PT,Google Workspace,Other Legal Requests,1,1,0
+2020-06-30,Russia,RU,Google Workspace,Other Legal Requests,4,4,0
+2020-06-30,Singapore,SG,Google Workspace,Other Legal Requests,2,12,50
+2020-06-30,South Korea,KR,Google Workspace,Other Legal Requests,1,1,100
+2020-06-30,Spain,ES,Google Workspace,Other Legal Requests,2,2,0
+2020-06-30,Sweden,SE,Google Workspace,Other Legal Requests,3,3,0
+2020-06-30,Switzerland,CH,Google Workspace,Other Legal Requests,1,1,0
+2020-06-30,Taiwan,TW,Google Workspace,Other Legal Requests,1,1,0
+2020-06-30,United Kingdom,GB,Google Workspace,Emergency Disclosure Requests,6,6,50
+2020-06-30,United Kingdom,GB,Google Workspace,Other Legal Requests,4,4,50
+2020-06-30,United States,US,GCP,Other Court Orders,2,2,0
+2020-06-30,United States,US,GCP,Pen Register Orders,1,1,0
+2020-06-30,United States,US,GCP,Preservation Requests,3,3,
+2020-06-30,United States,US,GCP,Search Warrants,2,2,0
+2020-06-30,United States,US,GCP,Subpoenas,6,7,0
+2020-06-30,United States,US,Google Workspace,Emergency Disclosure Requests,10,10,50
+2020-06-30,United States,US,Google Workspace,Other Court Orders,37,79,62
+2020-06-30,United States,US,Google Workspace,Pen Register Orders,1,1,0
+2020-06-30,United States,US,Google Workspace,Preservation Requests,149,168,
+2020-06-30,United States,US,Google Workspace,Search Warrants,80,85,69
+2020-06-30,United States,US,Google Workspace,Subpoenas,82,93,70
+2020-12-31,Australia,AU,GCP,Emergency Disclosure Requests,1,1,0
+2020-12-31,Australia,AU,Google Workspace,Other Legal Requests,1,3,0
+2020-12-31,Belgium,BE,Google Workspace,Other Legal Requests,2,4,50
+2020-12-31,Brazil,BR,Google Workspace,Other Legal Requests,69,72,35
+2020-12-31,Brazil,BR,Google Workspace,Preservation Requests,4,4,
+2020-12-31,Canada,CA,Google Workspace,Emergency Disclosure Requests,1,1,100
+2020-12-31,Canada,CA,Google Workspace,Other Legal Requests,2,2,0
+2020-12-31,Canada,CA,Google Workspace,Preservation Requests,1,1,
+2020-12-31,Chile,CL,Google Workspace,Other Legal Requests,3,3,0
+2020-12-31,Colombia,CO,Google Workspace,Other Legal Requests,1,1,0
+2020-12-31,Czechia,CZ,Google Workspace,Emergency Disclosure Requests,1,1,100
+2020-12-31,Czechia,CZ,Google Workspace,Other Legal Requests,2,2,50
+2020-12-31,France,FR,Google Workspace,Other Legal Requests,14,14,36
+2020-12-31,Germany,DE,GCP,Other Legal Requests,1,1,0
+2020-12-31,Germany,DE,Google Workspace,Other Legal Requests,22,22,5
+2020-12-31,India,IN,GCP,Other Legal Requests,4,4,0
+2020-12-31,India,IN,Google Workspace,Other Legal Requests,22,22,23
+2020-12-31,Italy,IT,Google Workspace,Emergency Disclosure Requests,1,1,100
+2020-12-31,Italy,IT,Google Workspace,Other Legal Requests,1,1,0
+2020-12-31,Japan,JP,Google Workspace,Other Legal Requests,1,1,100
+2020-12-31,Malta,MT,Google Workspace,Other Legal Requests,1,1,0
+2020-12-31,Mexico,MX,Google Workspace,Other Legal Requests,1,1,0
+2020-12-31,Poland,PL,Google Workspace,Other Legal Requests,2,2,0
+2020-12-31,Poland,PL,Google Workspace,Preservation Requests,1,1,
+2020-12-31,Portugal,PT,Google Workspace,Other Legal Requests,1,1,0
+2020-12-31,Russia,RU,Google Workspace,Other Legal Requests,1,2,100
+2020-12-31,Singapore,SG,Google Workspace,Other Legal Requests,3,3,0
+2020-12-31,South Korea,KR,Google Workspace,Other Legal Requests,1,1,0
+2020-12-31,Spain,ES,Google Workspace,Other Legal Requests,4,4,0
+2020-12-31,Sweden,SE,Google Workspace,Other Legal Requests,1,1,0
+2020-12-31,Switzerland,CH,Google Workspace,Other Legal Requests,3,3,0
+2020-12-31,Taiwan,TW,Google Workspace,Other Legal Requests,1,1,0
+2020-12-31,United Kingdom,GB,GCP,Other Legal Requests,1,1,0
+2020-12-31,United Kingdom,GB,Google Workspace,Emergency Disclosure Requests,5,5,100
+2020-12-31,United Kingdom,GB,Google Workspace,Other Legal Requests,2,2,50
+2020-12-31,United Kingdom,GB,Google Workspace,Preservation Requests,3,3,
+2020-12-31,United States,US,GCP,Emergency Disclosure Requests,1,1,0
+2020-12-31,United States,US,GCP,Other Court Orders,1,1,0
+2020-12-31,United States,US,GCP,Preservation Requests,6,6,
+2020-12-31,United States,US,GCP,Search Warrants,4,4,0
+2020-12-31,United States,US,GCP,Subpoenas,9,9,0
+2020-12-31,United States,US,Google Workspace,Emergency Disclosure Requests,10,10,70
+2020-12-31,United States,US,Google Workspace,Other Court Orders,31,34,74
+2020-12-31,United States,US,Google Workspace,Pen Register Orders,3,3,100
+2020-12-31,United States,US,Google Workspace,Preservation Requests,193,211,
+2020-12-31,United States,US,Google Workspace,Search Warrants,73,76,53
+2020-12-31,United States,US,Google Workspace,Subpoenas,68,76,62
+2021-06-30,Argentina,AR,GCP,Preservation Requests,2,2,
+2021-06-30,Argentina,AR,Google Workspace,Other Legal Requests,1,1,0
+2021-06-30,Austria,AT,Google Workspace,Other Legal Requests,1,1,0
+2021-06-30,Belgium,BE,Google Workspace,Other Legal Requests,1,1,0
+2021-06-30,Brazil,BR,GCP,Other Legal Requests,2,2,0
+2021-06-30,Brazil,BR,Google Workspace,Emergency Disclosure Requests,8,8,38
+2021-06-30,Brazil,BR,Google Workspace,Other Legal Requests,261,330,3
+2021-06-30,Brazil,BR,Google Workspace,Preservation Requests,13,16,
+2021-06-30,Canada,CA,Google Workspace,Emergency Disclosure Requests,2,2,50
+2021-06-30,Colombia,CO,Google Workspace,Preservation Requests,1,1,
+2021-06-30,Czechia,CZ,Google Workspace,Other Legal Requests,4,5,0
+2021-06-30,France,FR,Google Workspace,Other Legal Requests,13,14,15
+2021-06-30,Germany,DE,GCP,Other Legal Requests,5,5,0
+2021-06-30,Germany,DE,GCP,Preservation Requests,1,1,
+2021-06-30,Germany,DE,Google Workspace,Other Legal Requests,45,55,27
+2021-06-30,Germany,DE,Google Workspace,Preservation Requests,17,17,
+2021-06-30,Greece,GR,Google Workspace,Other Legal Requests,3,3,0
+2021-06-30,India,IN,GCP,Other Legal Requests,1,1,0
+2021-06-30,India,IN,Google Workspace,Other Legal Requests,47,52,11
+2021-06-30,Ireland,IE,Google Workspace,Other Legal Requests,1,1,0
+2021-06-30,Ireland,IE,Google Workspace,Preservation Requests,1,1,
+2021-06-30,Israel,IL,Google Workspace,Emergency Disclosure Requests,4,5,100
+2021-06-30,Israel,IL,Google Workspace,Other Legal Requests,1,2,0
+2021-06-30,Italy,IT,Google Workspace,Other Legal Requests,9,10,22
+2021-06-30,Malta,MT,Google Workspace,Other Legal Requests,1,2,0
+2021-06-30,Mexico,MX,Google Workspace,Other Legal Requests,3,3,0
+2021-06-30,Poland,PL,Google Workspace,Other Legal Requests,1,1,0
+2021-06-30,Portugal,PT,Google Workspace,Other Legal Requests,4,6,0
+2021-06-30,Russia,RU,Google Workspace,Other Legal Requests,2,2,0
+2021-06-30,Spain,ES,Google Workspace,Other Legal Requests,2,2,0
+2021-06-30,Sweden,SE,Google Workspace,Other Legal Requests,4,12,100
+2021-06-30,Switzerland,CH,Google Workspace,Other Legal Requests,2,3,0
+2021-06-30,Taiwan,TW,Google Workspace,Other Legal Requests,8,8,0
+2021-06-30,Türkiye,TR,Google Workspace,Other Legal Requests,2,2,0
+2021-06-30,United Kingdom,GB,Google Workspace,Emergency Disclosure Requests,5,5,80
+2021-06-30,United Kingdom,GB,Google Workspace,Other Legal Requests,7,7,29
+2021-06-30,United Kingdom,GB,Google Workspace,Preservation Requests,1,1,
+2021-06-30,United States,US,GCP,Emergency Disclosure Requests,3,3,0
+2021-06-30,United States,US,GCP,Preservation Requests,6,6,
+2021-06-30,United States,US,GCP,Search Warrants,4,4,0
+2021-06-30,United States,US,GCP,Subpoenas,23,23,4
+2021-06-30,United States,US,Google Workspace,Emergency Disclosure Requests,33,33,94
+2021-06-30,United States,US,Google Workspace,Other Court Orders,28,47,75
+2021-06-30,United States,US,Google Workspace,Pen Register Orders,13,15,77
+2021-06-30,United States,US,Google Workspace,Preservation Requests,317,362,
+2021-06-30,United States,US,Google Workspace,Search Warrants,101,117,59
+2021-06-30,United States,US,Google Workspace,Subpoenas,113,129,56
+2021-06-30,United States,US,Google Workspace,Wiretap Orders,1,1,0
+2021-12-31,Argentina,AR,Google Workspace,Other Legal Requests,2,2,0
+2021-12-31,Argentina,AR,Google Workspace,Preservation Requests,1,2,
+2021-12-31,Australia,AU,GCP,Other Legal Requests,1,1,0
+2021-12-31,Australia,AU,Google Workspace,Other Legal Requests,2,3,0
+2021-12-31,Brazil,BR,GCP,Other Legal Requests,2,2,0
+2021-12-31,Brazil,BR,Google Workspace,Emergency Disclosure Requests,5,6,40
+2021-12-31,Brazil,BR,Google Workspace,Other Legal Requests,337,403,5
+2021-12-31,Brazil,BR,Google Workspace,Preservation Requests,17,56,
+2021-12-31,Canada,CA,GCP,Emergency Disclosure Requests,1,1,0
+2021-12-31,Canada,CA,Google Workspace,Emergency Disclosure Requests,1,1,0
+2021-12-31,Canada,CA,Google Workspace,Other Legal Requests,1,1,0
+2021-12-31,Canada,CA,Google Workspace,Preservation Requests,1,1,
+2021-12-31,Czechia,CZ,Google Workspace,Other Legal Requests,2,2,0
+2021-12-31,Estonia,EE,Google Workspace,Other Legal Requests,1,1,0
+2021-12-31,France,FR,GCP,Other Legal Requests,1,1,0
+2021-12-31,France,FR,Google Workspace,Other Legal Requests,9,9,0
+2021-12-31,Germany,DE,GCP,Other Legal Requests,8,8,0
+2021-12-31,Germany,DE,GCP,Preservation Requests,1,1,
+2021-12-31,Germany,DE,Google Workspace,Other Legal Requests,35,40,11
+2021-12-31,Germany,DE,Google Workspace,Preservation Requests,14,14,
+2021-12-31,Greece,GR,Google Workspace,Preservation Requests,1,1,
+2021-12-31,India,IN,GCP,Other Legal Requests,1,1,0
+2021-12-31,India,IN,Google Workspace,Other Legal Requests,74,77,14
+2021-12-31,Israel,IL,Google Workspace,Emergency Disclosure Requests,4,4,25
+2021-12-31,Italy,IT,Google Workspace,Other Legal Requests,10,10,0
+2021-12-31,Mexico,MX,Google Workspace,Other Legal Requests,1,1,0
+2021-12-31,Netherlands,NL,Google Workspace,Emergency Disclosure Requests,1,1,100
+2021-12-31,Poland,PL,Google Workspace,Other Legal Requests,7,8,0
+2021-12-31,Portugal,PT,Google Workspace,Other Legal Requests,1,1,0
+2021-12-31,Singapore,SG,Google Workspace,Other Legal Requests,2,2,0
+2021-12-31,South Korea,KR,Google Workspace,Emergency Disclosure Requests,1,1,100
+2021-12-31,Spain,ES,Google Workspace,Other Legal Requests,5,5,0
+2021-12-31,Sweden,SE,Google Workspace,Other Legal Requests,2,5,0
+2021-12-31,Switzerland,CH,GCP,Other Legal Requests,1,1,0
+2021-12-31,Switzerland,CH,Google Workspace,Other Legal Requests,1,1,0
+2021-12-31,Taiwan,TW,GCP,Other Legal Requests,1,1,0
+2021-12-31,Taiwan,TW,Google Workspace,Other Legal Requests,9,9,0
+2021-12-31,United Kingdom,GB,Google Workspace,Emergency Disclosure Requests,12,12,67
+2021-12-31,United Kingdom,GB,Google Workspace,Other Legal Requests,5,5,20
+2021-12-31,United Kingdom,GB,Google Workspace,Preservation Requests,2,2,
+2021-12-31,United States,US,GCP,Emergency Disclosure Requests,2,2,0
+2021-12-31,United States,US,GCP,Other Court Orders,2,2,0
+2021-12-31,United States,US,GCP,Preservation Requests,8,8,
+2021-12-31,United States,US,GCP,Subpoenas,14,14,0
+2021-12-31,United States,US,Google Workspace,Emergency Disclosure Requests,12,12,83
+2021-12-31,United States,US,Google Workspace,Other Court Orders,24,25,58
+2021-12-31,United States,US,Google Workspace,Pen Register Orders,6,6,83
+2021-12-31,United States,US,Google Workspace,Preservation Requests,242,279,
+2021-12-31,United States,US,Google Workspace,Search Warrants,85,98,58
+2021-12-31,United States,US,Google Workspace,Subpoenas,78,101,67
+2022-06-30,Argentina,AR,GCP,Other Legal Requests,1,1,0
+2022-06-30,Argentina,AR,Google Workspace,Other Legal Requests,1,1,100
+2022-06-30,Austria,AT,GCP,Other Legal Requests,1,1,0
+2022-06-30,Austria,AT,Google Workspace,Emergency Disclosure Requests,1,1,0
+2022-06-30,Austria,AT,Google Workspace,Other Legal Requests,1,1,0
+2022-06-30,Belgium,BE,GCP,Other Legal Requests,1,1,0
+2022-06-30,Brazil,BR,Google Workspace,Other Legal Requests,220,249,8
+2022-06-30,Brazil,BR,Google Workspace,Preservation Requests,15,27,
+2022-06-30,Canada,CA,Google Workspace,Emergency Disclosure Requests,1,1,100
+2022-06-30,Canada,CA,Google Workspace,Preservation Requests,1,1,
+2022-06-30,Chile,CL,Google Workspace,Other Legal Requests,1,1,0
+2022-06-30,Colombia,CO,Google Workspace,Other Legal Requests,1,1,0
+2022-06-30,Denmark,DK,Google Workspace,Other Legal Requests,1,1,0
+2022-06-30,France,FR,GCP,Other Legal Requests,1,1,0
+2022-06-30,France,FR,Google Workspace,Other Legal Requests,10,15,40
+2022-06-30,Germany,DE,GCP,Other Legal Requests,2,2,0
+2022-06-30,Germany,DE,Google Workspace,Other Legal Requests,27,31,26
+2022-06-30,India,IN,GCP,Other Legal Requests,7,10,0
+2022-06-30,India,IN,Google Workspace,Other Legal Requests,92,94,22
+2022-06-30,India,IN,Google Workspace,Preservation Requests,1,1,
+2022-06-30,Ireland,IE,Google Workspace,Other Legal Requests,5,5,80
+2022-06-30,Ireland,IE,Google Workspace,Preservation Requests,2,2,
+2022-06-30,Italy,IT,Google Workspace,Other Legal Requests,5,5,0
+2022-06-30,Italy,IT,Google Workspace,Preservation Requests,1,1,
+2022-06-30,Japan,JP,Google Workspace,Emergency Disclosure Requests,1,1,100
+2022-06-30,Luxembourg,LU,Google Workspace,Preservation Requests,1,1,
+2022-06-30,Mexico,MX,Google Workspace,Other Legal Requests,1,1,0
+2022-06-30,Netherlands,NL,Google Workspace,Other Legal Requests,2,2,0
+2022-06-30,Netherlands,NL,Google Workspace,Preservation Requests,3,3,
+2022-06-30,Poland,PL,GCP,Other Legal Requests,1,1,0
+2022-06-30,Poland,PL,Google Workspace,Other Legal Requests,6,6,0
+2022-06-30,Portugal,PT,Google Workspace,Other Legal Requests,1,1,0
+2022-06-30,Singapore,SG,GCP,Other Legal Requests,3,3,0
+2022-06-30,Slovenia,SI,Google Workspace,Other Legal Requests,1,1,0
+2022-06-30,Slovenia,SI,Google Workspace,Preservation Requests,1,1,
+2022-06-30,Spain,ES,Google Workspace,Other Legal Requests,4,5,25
+2022-06-30,Sweden,SE,Google Workspace,Other Legal Requests,4,6,0
+2022-06-30,Switzerland,CH,Google Workspace,Other Legal Requests,5,5,80
+2022-06-30,Taiwan,TW,GCP,Other Legal Requests,1,1,0
+2022-06-30,United Kingdom,GB,Google Workspace,Emergency Disclosure Requests,5,5,60
+2022-06-30,United Kingdom,GB,Google Workspace,Other Legal Requests,3,3,0
+2022-06-30,United Kingdom,GB,Google Workspace,Preservation Requests,3,3,
+2022-06-30,United States,US,GCP,Preservation Requests,8,11,
+2022-06-30,United States,US,GCP,Search Warrants,1,1,0
+2022-06-30,United States,US,GCP,Subpoenas,20,21,0
+2022-06-30,United States,US,Google Workspace,Emergency Disclosure Requests,12,12,83
+2022-06-30,United States,US,Google Workspace,Other Court Orders,46,54,76
+2022-06-30,United States,US,Google Workspace,Pen Register Orders,6,7,100
+2022-06-30,United States,US,Google Workspace,Preservation Requests,158,170,
+2022-06-30,United States,US,Google Workspace,Search Warrants,100,101,56
+2022-06-30,United States,US,Google Workspace,Subpoenas,96,102,74

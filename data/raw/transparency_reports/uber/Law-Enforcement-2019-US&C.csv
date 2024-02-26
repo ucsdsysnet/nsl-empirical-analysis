@@ -1,0 +1,13 @@
+US 2019,,,,
+Process recieved,Number of data requests,Number of requests where some user data was disclosed,Number of users whose data was disclosed,Percentage of requests where some user data was disclosed
+Emergency,1578,739,1265,46.8%
+Court order,202,127,355,62.9%
+Search warrant,956,717,2239,75.0%
+Subpoena,3116,1879,5006,60.3%
+Totals,5852,3462,8865,59.2%
+,,,,
+Canada 2019,,,,
+Process recieved,Number of data requests,Number of requests where some user data was disclosed,Number of users whose data was disclosed,Percentage of requests where some user data was disclosed
+Emergency,230,113,191,49.1%
+Legal process,111,91,317,82.0%
+Totals,341,204,508,59.8%
