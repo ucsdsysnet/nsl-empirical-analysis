@@ -28,7 +28,7 @@ class NSL:
         disambiguate letters.
         """
 
-        if type(file_number) == int:
+        if type(file_number) in [int, float]:
             return float(file_number)
         
         nsl_file_number_parts = file_number.split("(")
