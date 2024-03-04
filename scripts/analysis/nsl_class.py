@@ -1,4 +1,5 @@
 from datetime import datetime
+import re
 
 # Structured NSL Data
 class NSL:
@@ -20,24 +21,43 @@ class NSL:
         """
         return datetime.strptime(timestamp_str, '%Y-%m-%d')
     
+
     @staticmethod
-    def parse_file_number(file_number):
+    def parse_file_number(file_name):
+        """
+        parse the NSL file number out of an NSL file name
+        """
+        match = re.search(".*NSL-\d+-(\d*[\s(a-zA-Z)]*[-\d]*)[\._]?.*", file_name)
+        if match:
+            file_number_str = match.group(1)
+            return file_number_str, NSL.file_str_to_numbers(file_number_str)
+    
+    @staticmethod
+    def file_str_to_numbers(file_number_str):
         """
         Some files have letters like (a) or (b) after their number,
         we parse them and add this as a fraction to the file number to
         disambiguate letters.
         """
 
-        if type(file_number) in [int, float]:
-            return float(file_number)
+        if type(file_number_str) in [int, float]:
+            return float(file_number_str)
         
-        nsl_file_number_parts = file_number.split("(")
-        nsl_file_number_float = float(nsl_file_number_parts[0])
-        
-        # handle (a)/(b) in file name
-        if len(nsl_file_number_parts) > 1:
+        # Case: 34567(a)
+        if "(" in file_number_str:
+            nsl_file_number_parts = file_number_str.split("(")
+            nsl_file_number_float = float(nsl_file_number_parts[0])
             letter_fraction = (ord(nsl_file_number_parts[1][:-1]) - ord("a"))/26
             nsl_file_number_float += letter_fraction
+        # Case 34567-1
+        elif "-" in file_number_str:
+            nsl_file_number_parts = file_number_str.split("-")
+            nsl_file_number_float = float(nsl_file_number_parts[0])
+            letter_fraction = int(nsl_file_number_parts[1])/10
+            nsl_file_number_float += letter_fraction
+        # Standard case: 34567
+        else:
+            nsl_file_number_float = float(file_number_str)
 
         return nsl_file_number_float
     
@@ -48,11 +68,9 @@ class NSL:
             for nsl in nsls:
                 csv_file.write(nsl.export_as_csv_line() + "\n")
 
-    def __init__(self, issue_date, nsl_file_number, year=None, company=None, release_date=None, link_to_nsl_file=None, link_to_release_letter=None, comment=None):
+    def __init__(self, issue_date, nsl_file_name, year=None, company=None, release_date=None, link_to_nsl_file=None, link_to_release_letter=None, comment=None):
         self.issue_date = issue_date
-        self.nsl_file_number = nsl_file_number
-        self.nsl_file_number_float = NSL.parse_file_number(nsl_file_number)
-
+        self.nsl_file_number, self.nsl_file_number_float = NSL.parse_file_number(nsl_file_name)
     
         # The following are not available for all NSLs
         self.company = company
