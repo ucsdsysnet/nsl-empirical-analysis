@@ -1,4 +1,4 @@
-year,ASTR issued NSLs,US ROIs,US targets,non-US ROIs,non-US targets,sub. ROIs,sub. targets,total ROIs,ASTR ROIs,_sub. ROIs inferred (total ROIs - non-US ROIs - US ROIs),_sub+non-US ROIs inferred (total - US ROIs)
+year,ASTR issued NSLs,US ROIs,US targets,non-US ROIs,non-US targets,subscriber ROIs,subscriber targets,total ROIs,ASTR ROIs,subscriber ROIs inferred (total ROIs - non-US ROIs - US ROIs),subscriber + non-US ROIs inferred (total - US ROIs)
 1996,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
 1997,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
 1998,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
