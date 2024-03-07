@@ -1,6 +1,6 @@
 # Unified Data Set about National Security Letters
 
-This repository provides the unified data set that we collected for the paper with the title "An Empirical Analysis on the Use and Reporting of National Security Letters".
+This repository provides the unified data set that we collected for the paper with the title ["An Empirical Analysis on the Use and Reporting of National Security Letters"](https://cs.paperswithcode.com/paper/an-empirical-analysis-on-the-use-and).
 
 We aggregate data from three different sources:
 1. OIG, FISA and ASTR reports mandated by the USA PATRIOT Improvement and Reauthorization Act and the USA FREEDOM Act
